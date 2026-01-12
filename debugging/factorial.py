@@ -10,3 +10,5 @@ def factorial(n):
 
 f = factorial(int(sys.argv[1]))
 print(f)
+# To run the script, use the command line:
+# python3 factorial.py <number>
